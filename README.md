@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raffai Sajti David</h1>
-<h3 align="center">A passionate programmer who loves crafting elegant solutions to complex problems. With a blend of creativity and technical prowess, I strive to leave a positive impact on the world through my code.</h3>
+<h3 align="center">I'm a passionate programmer who loves crafting elegant solutions to complex problems. With a blend of creativity and technical prowess, I strive to leave a positive impact on the world through my code.</h3>
 
 - 🔭 I’m currently working on [Sacle](https://github.com/Whenson420/Sacle)
 
 - 📫 How to reach me **sajtisan2005@gmail.com**
 
 - ⚡ Fun fact **I strive to be the best**
+
+- 🇬🇧 English: C1 Proficiency
+- 🇭🇺 Hungarian: Native Speaker
+- 🇷🇸 Serbian: B1 Proficiency
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
