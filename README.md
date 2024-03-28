@@ -11,6 +11,8 @@
 - 🇭🇺 Hungarian: Native Speaker
 - 🇷🇸 Serbian: B1 Proficiency
 
+- I'm most knowledged in C#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100008333227356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008333227356" height="30" width="40" /></a>
