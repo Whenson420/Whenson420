@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sajtisan2005@gmail.com**
 
-- ⚡ Fun fact **I strive to be the best and I want to work at Microsoft one day**
+- ⚡ Fun fact **I strive to be the best**
 
 - 🇬🇧 English: C1 Proficiency
 - 🇭🇺 Hungarian: Native Speaker
